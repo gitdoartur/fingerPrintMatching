@@ -1,0 +1,14 @@
+# Ambiente virtual
+venv/
+
+# Arquivos temporários
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Modelos, pesos, cache
+*.ckpt
+*.pth
+*.h5
